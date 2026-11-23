@@ -3,7 +3,6 @@
 **ImAble** ("I'm Able") is an Android app that helps **non-verbal or minimally verbal children with Autism Spectrum Disorder (ASD)** express their needs. It also gives their **parents** tools to follow their child's day, keep them safe, and find support in Bangladesh.
 
 <!-- Add 3–4 screenshots here: home screen, parent mode, emergency map, organisations page -->
-#Demo
 Check here: https://drive.google.com/file/d/1It6PnDvzTbUx0S7z8a81xDLG4rafyYsg/view?usp=sharing
 ---
 
@@ -53,4 +52,4 @@ Many children with autism find it hard to say what they need or feel, which can 
 
 - Big, colourful picture buttons with sound, because many autistic children respond better to visual and audio cues than to text
 - The parent features sit behind a separate mode, so the child's screen stays simple
-- The focus on Bangladesh (local organisations, +880 phone numbers) reflects the community the app was built for
+
